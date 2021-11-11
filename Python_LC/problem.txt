@@ -1,0 +1,7 @@
+Use MapReduce to count the number of words of each length in text.
+Example output:
+		1 1234
+		2 22100
+		3 2312
+		4 321
+		5 123

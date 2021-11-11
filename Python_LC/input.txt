@@ -1,0 +1,3 @@
+Hello everyone amit here welcome to my YouTube video on using hadoop mapreduce to perform wordcount program
+uning hadoop mapreduce to get wordcount from sample text
+amit shendge
